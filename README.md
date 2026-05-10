@@ -2,7 +2,7 @@
 
 Control Systems Engineer & Software Developer who enjoys building things that actually work... and thinking of different ways to make them work better.
 
-  💡 *It's not about the tool, it's about solving the right problem.*
+  💡 *Always thinking differently.*
 
 ---
 
