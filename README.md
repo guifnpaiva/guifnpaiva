@@ -1,31 +1,27 @@
 # Hi, I'm Guilherme 👋
 
-Control Systems Engineer & Software Developer who enjoys building things that actually work... and thinking of different ways to make them work better.
-
-  💡 *Always thinking differently.*
+Control Systems Engineer & Software Developer who enjoys building things that actually work — and obsessing over smarter ways to make them work better.
 
 ---
 
 ## About Me
 
 - 🎛️ Control & Systems Engineer at **Embraer** — Aerospace & Defense
-- 🎓 M.Sc. candidate at **ITA**, researching AI-driven/learning-based control of dynamical systems
-- 🤖 Passionate about the intersection of Control Theory, ML/DL, and real-world systems
-- 📱 Mobile developer — I enjoy turning ideas into apps people can actually use
-- 🧠 Always asking: *is there a smarter way to do this?*
+- 🎓 M.Sc. candidate at **ITA**, researching learning-based control of dynamical systems
+- 🤖 At the intersection of Control Theory, ML/DL, and real-world engineering
+- 📱 Mobile developer — turning ideas into apps people actually use
 - 📍 São José dos Campos, Brazil
 
-> Most of the work I'm proudest of lives behind NDAs. What's here is just the surface.
+> [!IMPORTANT]
+> GitHub doesn't capture most of what I do. The real work is elsewhere. *(confidential)*
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Currently
 
-Leading system integration, V&V, and simulation-based engineering for complex aerospace and defense programs at Embraer using MATLAB/Simulink and model-based design to support technical decision-making.
+**Building** → System integration, V&V, and simulation-based engineering for aerospace & defense programs at Embraer (MATLAB/Simulink, model-based design).
 
-## 🌱 Currently Learning
-
-Learning-based control methods, nonlinear systems, and neural network-based approaches for dynamical systems — M.Sc. research at ITA focused on stability, robustness, and interpretability.
+**Researching** → Learning-based and neural network approaches for nonlinear dynamical systems — focused on stability, robustness, and interpretability (M.Sc. @ ITA).
 
 ---
 
@@ -40,25 +36,15 @@ Mobile                 →   Flutter / Dart
 
 ---
 
-## Interests
-
-```
-Control Theory · Modeling/Simulation · ML/DL · Mobile Dev
-```
-
-When I'm not working, I'm probably thinking about how to code something I haven't built yet.
-
----
-
 ## 🏆 Highlights
 
-- 🥇 Embraer Engineering Awards — Product Solutions (2025)
-- 🥇 Embraer Engineering Awards — Lean & Agile Thinking (2024)
+- 🥇 Embraer Engineering Award — Product Solutions (2025)
+- 🥇 Embraer Engineering Award — Lean & Agile Thinking (2024)
 - 📡 Radar Signal Processing & Matched Filter Simulation — MATLAB/Simulink
-- 🌿 Coffee Leaf Disease CNN — 99.65% accuracy, deployed on-device via TensorFlow Lite + Flutter
+- 🌿 Coffee Leaf Disease CNN — **99.65% accuracy**, deployed on-device via TensorFlow Lite + Flutter
 
 ---
 
-## Let's connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guifnpaiva-blue?style=flat&logo=linkedin)](https://linkedin.com/in/guifnpaiva)
