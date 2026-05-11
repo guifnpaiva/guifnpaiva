@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme 👋
 
-Control Systems Engineer & Software Developer who enjoys building things that actually work — and obsessing over smarter ways to make them work better.
+Control Systems Engineer & Software Developer who enjoys building things that actually work and obsessing over smarter ways to make them work better.
 
 ---
 
