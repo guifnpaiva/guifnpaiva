@@ -1,6 +1,13 @@
+<div align="center">
+
 # Hi, I'm Guilherme 👋
 
-Control Systems Engineer & Software Developer who enjoys building things that actually work and obsessing over smarter ways to make them work better.
+Control Systems Engineer & Software Developer who enjoys building things<br>
+that actually work and obsessing over smarter ways to make them work better.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guifnpaiva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guifnpaiva)
+
+</div>
 
 ---
 
@@ -27,12 +34,24 @@ Control Systems Engineer & Software Developer who enjoys building things that ac
 
 ## Stack
 
-```
-Control & Simulation   →   MATLAB / Simulink
-Systems & Embedded     →   C / C++ · Qt · Linux
-Data & ML              →   Python · TensorFlow · Scikit-Learn
-Mobile                 →   Flutter / Dart
-```
+**Control & Simulation**<br>
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Systems & Embedded**<br>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Data & ML**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Mobile**<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
@@ -42,9 +61,3 @@ Mobile                 →   Flutter / Dart
 - 🥇 Embraer Engineering Award — Lean & Agile Thinking (2024)
 - 📡 Radar Signal Processing & Matched Filter Simulation — MATLAB/Simulink
 - 🌿 Coffee Leaf Disease CNN — **99.65% accuracy**, deployed on-device via TensorFlow Lite + Flutter
-
----
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guifnpaiva-blue?style=flat&logo=linkedin)](https://linkedin.com/in/guifnpaiva)
