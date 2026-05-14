@@ -6,6 +6,8 @@ Control Systems Engineer & Software Developer who enjoys building things<br>
 that actually work and obsessing over smarter ways to make them work better.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guifnpaiva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guifnpaiva)
+[![Email](https://img.shields.io/badge/Email-guifnpaiva@hotmail.com-D83B01?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:guifnpaiva@hotmail.com)
+
 
 </div>
 
@@ -35,8 +37,8 @@ that actually work and obsessing over smarter ways to make them work better.
 ## Stack
 
 **Control & Simulation**<br>
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16A2B?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-E16A2B?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Systems & Embedded**<br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
