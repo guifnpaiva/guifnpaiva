@@ -63,7 +63,6 @@ that actually work and obsessing over smarter ways to make them work better.
 ![Mission Systems](https://img.shields.io/badge/Mission%20Systems-1D3557?style=flat-square)
 ![Radar Systems](https://img.shields.io/badge/Radar%20Systems-1D3557?style=flat-square)
 ![Tactical Datalink](https://img.shields.io/badge/Tactical%20Datalink-1D3557?style=flat-square)
-![Flight Simulation](https://img.shields.io/badge/Flight%20Simulation-1D3557?style=flat-square)
 ![V&V](https://img.shields.io/badge/V%26V-457B9D?style=flat-square)
 ![Requirements Engineering](https://img.shields.io/badge/Requirements%20Engineering-457B9D?style=flat-square)
 ![Safety-Critical Systems](https://img.shields.io/badge/Safety--Critical%20Systems-457B9D?style=flat-square)
